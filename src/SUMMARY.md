@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [The importance of resilience in today's world](chapter-1-1.md)
-  - [Overview of the book's content](chapter-1-2.md)
 - [Chapter 1: Understanding Resilience and its Benefits](chapter-2.md)
   - [Definition of resilience and its benefits](chapter-2-1.md)
   - [Types of resilience, including emotional, physical, and cognitive](chapter-2-2.md)
