@@ -1,5 +1,4 @@
-Case Studies of Successful AI Implementations in Digital Coaching and Support
-===================================================================================================================================
+
 
 AI technology can be used to support digital coaching and support interventions by providing personalized recommendations and monitoring. This chapter will explore case studies of successful AI implementations in digital coaching and support.
 

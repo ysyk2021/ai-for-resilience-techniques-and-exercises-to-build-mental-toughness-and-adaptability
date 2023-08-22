@@ -1,5 +1,4 @@
-Chapter 7: Using AI for Digital Coaching and Support
-====================================================
+
 
 In this chapter, we explore the applications of Artificial Intelligence (AI) for digital coaching and support. AI has the potential to revolutionize the way individuals receive coaching and support, providing personalized and effective interventions that can build resilience, mental toughness, and adaptability.
 

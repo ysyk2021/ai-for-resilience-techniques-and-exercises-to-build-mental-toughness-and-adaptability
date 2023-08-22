@@ -1,5 +1,4 @@
-Chapter 8: Measuring AI Impact on Resilience Training
-=====================================================
+
 
 Measuring the impact of AI interventions on resilience training is crucial to ensuring their effectiveness and identifying areas for improvement. This chapter will explore how to assess the effectiveness of AI for resilience training, identify areas for improvement and refinement, and continuously adapt and improve your AI approach for resilience training.
 

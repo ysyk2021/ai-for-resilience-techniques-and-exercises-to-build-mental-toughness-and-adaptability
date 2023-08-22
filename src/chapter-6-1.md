@@ -1,5 +1,4 @@
-Overview of AI Applications for Cognitive Behavioral Therapy (CBT)
-========================================================================================================================
+
 
 Cognitive-behavioral therapy (CBT) is a type of psychotherapy that focuses on changing negative thoughts and behaviors to improve mental health. Recently, AI technology has been used to support CBT interventions. This chapter will explore the applications of AI in CBT.
 

@@ -1,5 +1,4 @@
-Overview of AI applications for digital coaching and support
-==================================================================================================================
+
 
 AI technology has the potential to revolutionize the way we approach mental health coaching and support. In this chapter, we'll explore some of the ways in which AI can be used for digital coaching and support.
 

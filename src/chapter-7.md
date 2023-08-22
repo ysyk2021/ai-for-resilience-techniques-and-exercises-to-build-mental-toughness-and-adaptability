@@ -1,5 +1,4 @@
-Chapter 6: Using AI for Physical Exercise and Nutrition
-=======================================================
+
 
 AI technology can be used to support physical exercise and nutrition interventions by providing personalized recommendations and monitoring. This chapter will explore the overview of AI applications for physical exercise and nutrition, best practices for AI implementation in areas such as personalized workout plans, meal planning, and sleep monitoring, and case studies of successful AI implementations in physical exercise and nutrition.
 

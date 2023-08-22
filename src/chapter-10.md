@@ -1,5 +1,4 @@
-Chapter 9: AI Ethics and Governance for Resilience Training
-===========================================================
+
 
 AI technology has the potential to enhance resilience training programs, but its implementation must be guided by ethical considerations and responsible governance. This chapter will explore ethical considerations for AI implementation in resilience training, developing governance frameworks to ensure responsible AI use, and legal and regulatory considerations.
 

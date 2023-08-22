@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-==========================================================================================================================
+
 
 As the use of AI in resilience training continues to grow, it's becoming increasingly important to develop governance frameworks that ensure responsible AI use. In this chapter, we'll explore the key components of an effective governance framework for AI-powered resilience training.
 

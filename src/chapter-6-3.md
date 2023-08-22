@@ -1,5 +1,4 @@
-Case Studies of Successful AI Implementations in CBT
-==========================================================================================================
+
 
 AI technology has been increasingly used to support cognitive-behavioral therapy (CBT) interventions. In this chapter, we will explore case studies of successful AI implementations in CBT.
 

@@ -1,5 +1,4 @@
-Overview of AI Applications for Physical Exercise and Nutrition
-========================================================================================================================
+
 
 AI technology can be used to support physical exercise and nutrition interventions by providing personalized recommendations and monitoring. This chapter will provide an overview of AI applications for physical exercise and nutrition.
 

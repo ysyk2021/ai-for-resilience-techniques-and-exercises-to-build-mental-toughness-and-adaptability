@@ -1,5 +1,4 @@
-How AI Can Help Build Resilience
-======================================================================================
+
 
 In this chapter, we will explore how AI technology can help build resilience. We will discuss the benefits of using AI for resilience training and the different types of AI tools and technologies available.
 

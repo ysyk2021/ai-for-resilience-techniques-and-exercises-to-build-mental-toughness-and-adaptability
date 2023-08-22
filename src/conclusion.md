@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we have explored various techniques and exercises that utilize AI technology to promote resilience and support mental health. We have discussed the definition of resilience, its benefits, and different types of resilience, including emotional, physical, and cognitive resilience.
 

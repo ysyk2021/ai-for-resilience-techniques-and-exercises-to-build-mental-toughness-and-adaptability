@@ -1,5 +1,4 @@
-Chapter 4: Using AI for Mindfulness and Meditation
-==================================================
+
 
 Overview of AI applications for mindfulness and meditation
 ----------------------------------------------------------

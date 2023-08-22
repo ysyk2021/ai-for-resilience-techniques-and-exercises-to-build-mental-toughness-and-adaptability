@@ -1,5 +1,4 @@
-The Importance of Resilience in Today's World
-===========================================================
+
 
 In today's fast-paced and constantly changing world, the ability to adapt and recover from stress, adversity, and trauma is more important than ever. Resilience is a crucial skill that can help individuals cope with challenges and maintain their well-being.
 

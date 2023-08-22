@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Resilience Training
-================================================================================================================
+
 
 Assessing the effectiveness of AI interventions is crucial to ensuring their impact on resilience training. This chapter will explore how to assess the effectiveness of AI for resilience training.
 

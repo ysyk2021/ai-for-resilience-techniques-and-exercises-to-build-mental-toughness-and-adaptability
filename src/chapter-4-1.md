@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Resilience Training
-==============================================================================================================================================
+
 
 In this chapter, we will explore how to choose the right AI tools and technologies for resilience training. We will provide an overview of the different types of AI tools and technologies available and discuss their benefits and drawbacks.
 

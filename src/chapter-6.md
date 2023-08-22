@@ -1,5 +1,4 @@
-Chapter 5: Using AI for Cognitive Behavioral Therapy
-====================================================
+
 
 In this chapter, we will explore the different applications of AI technology in cognitive behavioral therapy (CBT). We will discuss best practices for AI implementation in areas such as thought restructuring, problem-solving, and goal-setting, and provide case studies of successful AI implementations in CBT.
 

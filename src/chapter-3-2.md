@@ -1,5 +1,4 @@
-Evaluating Data Availability and Quality
-===========================================================================================================
+
 
 In this chapter, we will explore the importance of evaluating data availability and quality when implementing AI technology in resilience training. We will discuss how to ensure that data is available and reliable, and how to use it effectively to build resilience.
 
