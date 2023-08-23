@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the different types of resilience, including emotional, physical, and cognitive resilience. We will discuss how each type of resilience contributes to overall well-being and why it is important to develop skills in all areas.
 
 Emotional Resilience

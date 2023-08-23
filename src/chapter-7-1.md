@@ -23,5 +23,3 @@ Wearable Devices
 AI-powered wearable devices can track physical activity, sleep patterns, and other health metrics and provide personalized recommendations for physical exercise and nutrition. These devices use sensors to collect data and machine learning algorithms to analyze this information and provide personalized recommendations.
 
 Overall, AI-powered technology has the potential to greatly improve physical exercise and nutrition interventions by providing personalized recommendations and monitoring. By incorporating AI into these interventions, individuals can effectively build mental toughness and adaptability while promoting overall health and well-being.
-
-

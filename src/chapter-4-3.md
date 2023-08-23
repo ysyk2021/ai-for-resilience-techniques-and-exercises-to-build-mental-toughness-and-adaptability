@@ -42,5 +42,3 @@ Conclusion
 ----------
 
 Choosing the right AI tools and technologies is essential to promoting resilience through training. The case studies discussed in this chapter demonstrate the importance of personalization, accessibility, evidence-based interventions, and user-friendly interfaces in successful AI implementations for resilience training. By selecting tools and technologies that meet these criteria, individuals and organizations can effectively promote resilience and support mental health.
-
-
